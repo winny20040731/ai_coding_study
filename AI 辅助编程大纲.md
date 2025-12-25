@@ -28,15 +28,15 @@
 
 可以使用它做知识可视化，对学习会有很大的帮忙
 
-![image-20251223082838852](/Users/paulxu/Library/Application Support/typora-user-images/image-20251223082838852.png)
+![image-20251223082838852](./assets/image-20251223082838852.png)
 
-![image-20251223083716148](/Users/paulxu/Library/Application Support/typora-user-images/image-20251223083716148.png)
+![image-20251223083716148](./assets/image-20251223083716148.png)
 
-![Image](https://pbs.twimg.com/media/G6OnbMzbAAABomT?format=jpg&name=large)
+![Image](./assets/G6OnbMzbAAABomT.jpeg)
 
-![Image](https://pbs.twimg.com/media/G6wwAdDXwAA8trb?format=jpg&name=medium)
+![Image](./assets/G6wwAdDXwAA8trb.jpeg)
 
-![Image](https://pbs.twimg.com/media/G6s3MZXWQAAuBRO?format=jpg&name=4096x4096)
+![Image](./assets/G6s3MZXWQAAuBRO.jpeg)
 
 
 
@@ -48,7 +48,7 @@
 
 网址：***https://notebooklm.google.com/\***
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/rVsHjPxgtk2I6YezpPFx7AXX1cOS2K3qstZiaECXYgc3VeUtnD4aoUU8WRa39ULWMfmlhoefictndVzU77Ne3MZw/640?wx_fmt=png&from=appmsg&watermark=1&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=0)
+![图片](./assets/640-20251225124610106.png)
 
 
 
@@ -56,7 +56,7 @@ Google Labs 的总监 Steven Johnson 在演示中特别强调了 NotebookLM 的�
 
 当你打开它，你会看到一个清晰的三栏式布局。我把它比喻为一个数字化的书房。
 
-![image-20251222132641710](/Users/paulxu/Library/Application Support/typora-user-images/image-20251222132641710.png)
+![image-20251222132641710](./assets/image-20251222132641710.png)
 
 
 
@@ -64,7 +64,7 @@ Google Labs 的总监 Steven Johnson 在演示中特别强调了 NotebookLM 的�
 
 ### 腾讯ima与Get笔记
 
-![图片](https://mmbiz.qpic.cn/mmbiz_png/p69qCYb67zpHxtCLbQj0nId33b8EDpR4lelDTBXFo88DNrvOvdpdibwmoiarrNUqhxub8XYxuUlJKDrOaYQicnkAA/640?wx_fmt=png&from=appmsg&tp=wxpic&wxfrom=5&wx_lazy=1#imgIndex=4)
+![图片](./assets/640.png)
 
 
 
@@ -85,7 +85,7 @@ Google Labs 的总监 Steven Johnson 在演示中特别强调了 NotebookLM 的�
 
 请参考使用 notebookLM 制作的文档《AI编程_新现实与工程未来.pdf》
 
-![image-20251222231513340](/Users/paulxu/Library/Application Support/typora-user-images/image-20251222231513340.png)
+![image-20251222231513340](./assets/image-20251222231513340-6637933.png)
 
 
 
@@ -99,11 +99,9 @@ Google Labs 的总监 Steven Johnson 在演示中特别强调了 NotebookLM 的�
 
 
 
-![image-20251222234230518](/Users/paulxu/Library/Application Support/typora-user-images/image-20251222234230518.png)
+![image-20251225124446949](./assets/image-20251225124446949.png)
 
-
-
-![image-20251222234953416](/Users/paulxu/Library/Application Support/typora-user-images/image-20251222234953416.png)
+![image-20251222234953416](./assets/image-20251222234953416-6637910.png)
 
 # AI 编程工具-Claude Code介绍 
 
